@@ -1,1 +1,1 @@
-This repository contains alx C projects and other low level programming exercices.
+/0x18-dynamic_libraries/
